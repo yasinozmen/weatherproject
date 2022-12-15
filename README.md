@@ -1,6 +1,6 @@
 Proje yarn ile çalışmaktadır.
 yarn yüklü ise 
-öncelikle yarn diye kuruyoruz 
+öncelikle yarn komutuyla kuruyoruz 
 sonra yarn serve diyoruz site açılıyor
 yarn yüklü değil ise
 yarn yüklemek için :https://classic.yarnpkg.com/latest.msi dosyasını indirip kuruyoruz
