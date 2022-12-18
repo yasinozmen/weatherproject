@@ -1,3 +1,4 @@
+Canlı deme linki :  https://weatherproject-three.vercel.app/
 Proje yarn ile çalışmaktadır.
 yarn yüklü ise 
 öncelikle yarn komutuyla kuruyoruz 
